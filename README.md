@@ -10,7 +10,9 @@ Criterion C – Development – 12 marks
 
 Criterion D – Functionality (Video) – 4 marks
 
-# Rule of Thumb 
+Criterion E – Evaluation – 6 marks
+
+# Rule of Thumb (Remove later) 
 1. Arrays
 2. User-defined objects
 3. Objects as data records
@@ -27,7 +29,27 @@ Criterion D – Functionality (Video) – 4 marks
 14. Use of additional libraries (such as utilities and graphical libraries not included in appendix 2 Java Examination Tool Subsets)
 15. Use of sentinels or Flags 
 
-Criterion E – Evaluation – 6 marks
+# Checklists
+IB Checklist
+
+  *   Source code (all files for project)
+  *   Executable Application (jar/exe)
+  *   Resources
+  *   Planning
+  *   Design
+  *   Record of Tasks
+  *   Development
+  *   Evaluation
+  *   Video
+  *   index.html (other info needed) -see student samp
+
+# Important Links
+https://www.ibo.org/programmes/diploma-programme/curriculum/sciences/computer-science/
+https://ib.compscihub.net/internal. 
+https://ibpublishing.ibo.org/live-exist/rest/app/tsm.xql?doc=d_4_comsc_tsm_1201_1_e&part=4&chapter=5
+
+
+
 # "The Scenario" (Criterion A)
 The client is my physics teacher, Mr.Lambert, who has been struggling to find an adequate online circuit simulator for his beginner physics class. Many builders he finds online are missing key aspects, such as voltage level indicators, or don't provide enough information/ visual aid on how the scientific process works; instead, they leave many elements up to user interpretation, which has caused his students to become more confused by circuitry than enlightened. After consulting with him, I suggested we create a simulation equipped with personalized visuals/ features he can choose to implement into the program. This resulted in ideas like creating different colors for the wires to indicate voltage levels with a key as a visual aid and infographics to explain the step-by-step scientific process.  
 # "The Rationale" (Criterion A)
@@ -41,12 +63,14 @@ Java's modular structure allows for the creation of reusable components (Resisto
 3. Concurrency and Multithreading:
 In a circuit-building program, simulations require complex and often computationally intensive calculations. Java’s built-in support for multithreading and concurrency handles these things more efficiently, improving the program’s performance and responsiveness.
 4. Optimization: While Java isn’t as low-level as C or C++, it is still highly optimized through the Just-In-Time (JIT) compiler and garbage collection.
+5. 
 # "Success Criteria" (Criterion A) 
 (~5-7 relevant criteria and adequately evaluate your project.)
 1. The client can easily add new components to the circuit builder
 2. The client can interact and change the amount of voltage in the simulator
 3. The program relays the process step by step through a visual infographic
 4. The client can delete components of the circuit builder
-5. The program can easily calculate and explain Ohm's law. 
-# Flow Chart & Logic Diagram 
+5. The program can easily calculate and explain Ohm's law.
+
+# Flow Chart & Logic Diagram (Critrtion B) 
 ![IA SL COMP (Flow Chart)](https://github.com/user-attachments/assets/fc5a1331-b3fa-425c-8616-b63893aa2a37)
