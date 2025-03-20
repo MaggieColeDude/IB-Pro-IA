@@ -10,6 +10,23 @@ Criterion C – Development – 12 marks
 
 Criterion D – Functionality (Video) – 4 marks
 
+# Rule of Thumb 
+1. Arrays
+2. User-defined objects
+3. Objects as data records
+4. Simple selection (if–else)
+5. Complex selection (nested if, if with multiple conditions or switch)
+6. Loops
+7. Nested loops
+8. User-defined methods
+9. User-defined methods with parameters (the parameters have to be useful and used within the method body)
+10. User-defined methods with appropriate return values (primitives or objects)
+11. Sorting
+12. Searching
+13. File i/o
+14. Use of additional libraries (such as utilities and graphical libraries not included in appendix 2 Java Examination Tool Subsets)
+15. Use of sentinels or Flags 
+
 Criterion E – Evaluation – 6 marks
 # "The Scenario" (Criterion A)
 The client is my physics teacher, Mr.Lambert, who has been struggling to find an adequate online circuit simulator for his beginner physics class. Many builders he finds online are missing key aspects, such as voltage level indicators, or don't provide enough information/ visual aid on how the scientific process works; instead, they leave many elements up to user interpretation, which has caused his students to become more confused by circuitry than enlightened. After consulting with him, I suggested we create a simulation equipped with personalized visuals/ features he can choose to implement into the program. This resulted in ideas like creating different colors for the wires to indicate voltage levels with a key as a visual aid and infographics to explain the step-by-step scientific process.  
